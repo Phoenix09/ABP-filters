@@ -7,3 +7,12 @@ wallbase.cc##div[class="dontblockpls"]
 trakt.tv##div[style="width:300px;height:250px"]
 pornhub.com##div[id="abAlert"]
 ||image.ebuyer.com/customer/promos/*
+torrentleech.org##div[id="supportTorrentLeech"]
+torrentleech.org##div[class="ui-widget ui-widget-content ui-corner-all"][style="height:640px; width:160px;"]
+tweaktown.com##div[id=ad_block_div]
+*.888.com/*
+|http://ad.globe7.com/*
+|http://ad.spot200.com/*
+|http://ad.*.doubleclick.net/*
+|http://d1.zedo.com/ads2/*
+http://*.zedo.com/*
