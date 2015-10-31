@@ -18,6 +18,7 @@ http://*.zedo.com/*
 4chan.org##*#skellington
 s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
+##div#adFreePopup
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
