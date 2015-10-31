@@ -14,8 +14,9 @@ tweaktown.com##div[id=ad_block_div]
 |http://ad.globe7.com/*
 |http://ad.spot200.com/*
 |http://ad.*.doubleclick.net/*
-|http://d1.zedo.com/ads2/*
 http://*.zedo.com/*
+s.4cdn.org/image/skeletons/*
+s.4cdn.org/css/spooky.*.css
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
