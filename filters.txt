@@ -15,6 +15,7 @@ tweaktown.com##div[id=ad_block_div]
 |http://ad.spot200.com/*
 |http://ad.*.doubleclick.net/*
 http://*.zedo.com/*
+4chan.org##*#skellington
 s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
 @@||pushbullet.com^$document
