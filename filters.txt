@@ -19,6 +19,7 @@ http://*.zedo.com/*
 s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
 ##div#adFreePopup
+|ads.exoclick.com/*
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
