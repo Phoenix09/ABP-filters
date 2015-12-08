@@ -20,6 +20,7 @@ s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
 ##div#adFreePopup
 |ads.exoclick.com/*
+||wiki*.org/w/index.php?title=*:BannerController
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
