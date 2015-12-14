@@ -3,7 +3,7 @@ trakt.tv##div[id$="-ad"]
 equestriadaily.com##div[id$="-ad"]
 equestriadaily.com##div.asfsldighsldikgs
 equestriadaily.com##div.likfhlskdhslikdf
-wallbase.cc##div.dontblockpls"
+wallbase.cc##div.dontblockpls
 trakt.tv##div[style="width:300px;height:250px"]
 pornhub.com##div#abAlert
 ||image.ebuyer.com/customer/promos/*
@@ -23,6 +23,7 @@ s.4cdn.org/css/spooky.*.css
 wikipedia.org##.nag-trigger
 wikipedia.org###centralNotice
 wikipedia.org##[id$="banner-nag"]
+##div#topbarad-blocked
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
