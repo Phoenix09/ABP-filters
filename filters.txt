@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+! Title: Phoenix09's ABP Filters
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/Phoenix09/ABP-filters
 trakt.tv##div[id$="-ad"]
 equestriadaily.com##div[id$="-ad"]
 equestriadaily.com##div.asfsldighsldikgs
