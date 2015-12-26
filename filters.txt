@@ -27,6 +27,8 @@ wikipedia.org##.nag-trigger
 wikipedia.org###centralNotice
 wikipedia.org##[id$="banner-nag"]
 ##div#topbarad-blocked
+textmechanic.com##div.avgrund-popin
+textmechanic.com##div.avgrund-overlay
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
