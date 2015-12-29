@@ -29,6 +29,7 @@ wikipedia.org##[id$="banner-nag"]
 ##div#topbarad-blocked
 textmechanic.com##div.avgrund-popin
 textmechanic.com##div.avgrund-overlay
+pastebin.com##div#abrpm
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
