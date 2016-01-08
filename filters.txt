@@ -31,6 +31,7 @@ textmechanic.com##div.avgrund-popin
 textmechanic.com##div.avgrund-overlay
 pastebin.com##div#abrpm
 cpubenchmark.net##table[style="padding:2em;background-color:yellow"]
+dailyacc.com##center#gd31
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
