@@ -34,6 +34,7 @@ cpubenchmark.net##table[style="padding:2em;background-color:yellow"]
 dailyacc.com##center#gd31
 nwolb.com##div#splash-28021-overlay
 nwolb.com##div#splash-28021-splash
+opengapps.org##div#advertisement
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
