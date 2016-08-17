@@ -9,6 +9,7 @@ equestriadaily.com##div.likfhlskdhslikdf
 wallbase.cc##div.dontblockpls
 trakt.tv##div[style="width:300px;height:250px"]
 trakt.tv##div#huckster-desktop-wrapper.add-top
+trakt.tv##div#huckster-desktop-wrapper.middle.light
 pornhub.com##div#abAlert
 ||image.ebuyer.com/customer/promos/*
 torrentleech.org##div#supportTorrentLeech
