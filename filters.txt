@@ -23,6 +23,7 @@ http://*.zedo.com/*
 4chan.org##*#skellington
 s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
+s.4cdn.org/image/partyhat.gif
 ##div#adFreePopup
 |ads.exoclick.com/*
 wikipedia.org##.nag-trigger
