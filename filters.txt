@@ -39,6 +39,8 @@ nwolb.com##div#splash-28021-overlay
 nwolb.com##div#splash-28021-splash
 forum-lw-2.xda-cdn.com/analytics.js
 clickcdn.xda-developers.com/api/vglnk.js
+apkmirror.com##script:contains(canRunAds)
+apkmirror.com##script:contains(adsbygoogle)
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
