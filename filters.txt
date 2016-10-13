@@ -41,6 +41,8 @@ forum-lw-2.xda-cdn.com/analytics.js
 clickcdn.xda-developers.com/api/vglnk.js
 apkmirror.com##script:contains(canRunAds)
 apkmirror.com##script:contains(adsbygoogle)
+ultimate-guitar.com##section.js-interstitial
+ultimate-guitar.com##div.interstitial_overlay
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
