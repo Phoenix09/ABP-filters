@@ -47,6 +47,7 @@ ultimate-guitar.com##div.interstitial_overlay
 ultimate-guitar.com##tr > td[style="display: block!important; padding: 7px 0 10px 0; vertical-align: middle; text-align: center; min-height: 109px;"]
 |thepiratebay.org/2szff1avg6
 tvmaze.com##a.cinereus
+tvmaze.com##div.revenue-center
 @@||pushbullet.com^$document
 @@||lovehoney.co.uk^$document
 @@||halfords.com^$document
