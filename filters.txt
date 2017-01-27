@@ -21,6 +21,8 @@ tweaktown.com##div#ad_block_div
 |http://ad.*.doubleclick.net/*
 http://*.zedo.com/*
 4chan.org##*#skellington
+4chan.org##div.middlead
+4chan.org##hr.aboveMidAd
 s.4cdn.org/image/skeletons/*
 s.4cdn.org/css/spooky.*.css
 s.4cdn.org/image/partyhat.gif
