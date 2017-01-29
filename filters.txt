@@ -15,6 +15,7 @@ pornhub.com##div#abAlert
 torrentleech.org##div#supportTorrentLeech
 torrentleech.org##div[class="ui-widget ui-widget-content ui-corner-all"][style="height:640px; width:160px;"]
 tweaktown.com##div#ad_block_div
+pdadb.net##div#ab_warn
 ||888.com
 |http://ad.globe7.com/*
 |http://ad.spot200.com/*
