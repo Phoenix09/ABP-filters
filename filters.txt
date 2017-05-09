@@ -49,6 +49,7 @@ thepiratebay.org##script:contains(adxprts)
 ultimate-guitar.com##span.head_ad_UG
 ultimate-guitar.com##div.ad-layer-start
 ultimate-guitar.com##div.js-ab-regular
+ultimate-guitar.com##tr.js-ug-contest-replace
 |cdn.ustatik.com/js/ug_scripts_ver1487515318.js|
 ultimate-guitar.com##section.js-interstitial
 ultimate-guitar.com##div.interstitial_overlay
