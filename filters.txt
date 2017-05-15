@@ -65,3 +65,5 @@ tvmaze.com##div.revenue-center
 @@||dropbox.com^$document
 @@||fleshlight-international.eu^$document
 @@||currys.co.uk^$document
+thepiratebay.se##script:contains(/var\s*_wm/)
+uj3wazyk5u4hnvtk.onion##script:contains(/var\s*_wm/)
