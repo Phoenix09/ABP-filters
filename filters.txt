@@ -1,5 +1,4 @@
-[ug
-Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: Phoenix09's ABP Filters
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Phoenix09/ABP-filters
@@ -67,3 +66,5 @@ tvmaze.com##div.revenue-center
 @@||currys.co.uk^$document
 thepiratebay.se##script:contains(/var\s*_wm/)
 uj3wazyk5u4hnvtk.onion##script:contains(/var\s*_wm/)
+kitguru.net##div#lNaPHmzeiWmy
+kitguru.net##div.wcUprzNGxOdU-bg
