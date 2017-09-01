@@ -68,3 +68,6 @@ thepiratebay.se##script:contains(/var\s*_wm/)
 uj3wazyk5u4hnvtk.onion##script:contains(/var\s*_wm/)
 kitguru.net##div#lNaPHmzeiWmy
 kitguru.net##div.wcUprzNGxOdU-bg
+trakt.tv##a.huckster-vip-info
+trakt.tv##div.huckster-dfp
+
