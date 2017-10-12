@@ -70,4 +70,4 @@ kitguru.net##div#lNaPHmzeiWmy
 kitguru.net##div.wcUprzNGxOdU-bg
 trakt.tv##a.huckster-vip-info
 trakt.tv##div.huckster-dfp
-
+trakt.tv##div:-abp-has(> div > .huckster-vip-info)
